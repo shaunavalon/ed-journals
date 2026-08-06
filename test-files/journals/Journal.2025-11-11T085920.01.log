@@ -1,0 +1,3 @@
+{ "timestamp":"2025-11-11T06:59:14Z", "event":"Fileheader", "part":1, "language":"English/UK", "Odyssey":true, "gameversion":"4.2.1.2", "build":"r320146/r0 " }
+{ "timestamp":"2025-11-11T07:00:43Z", "event":"Friends", "Status":"Online", "Name":"5e7u7" }
+{ "timestamp":"2025-11-11T07:01:09Z", "event":"Shutdown" }

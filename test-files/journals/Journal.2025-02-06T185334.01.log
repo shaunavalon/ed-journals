@@ -1,0 +1,3 @@
+{ "timestamp":"2025-02-06T16:53:30Z", "event":"Fileheader", "part":1, "language":"English/UK", "Odyssey":true, "gameversion":"4.0.0.1904", "build":"r308767/r0 " }
+{ "timestamp":"2025-02-06T17:04:13Z", "event":"CommunityGoal", "CurrentGoals":[ { "CGID":812, "Title":"Brewer Corporation Planetary Survey Initiative", "SystemName":"HIP 90578", "MarketName":"Trailblazer Echo", "Expiry":"2025-02-13T08:00:00Z", "IsComplete":false, "CurrentTotal":3507969, "PlayerContribution":289, "NumContributors":10797, "TopTier":{ "Name":"Tier 6", "Bonus":"" }, "TierReached":"Tier 5", "PlayerPercentileBand":50, "Bonus":75000000 } ] }
+{ "timestamp":"2025-02-06T17:05:00Z", "event":"Shutdown" }
